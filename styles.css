@@ -1,0 +1,790 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.top {
+    width: 100%;
+    height: 50px;
+    background-image: url(asset\ 32.png);
+    background-size: 300px;
+    background-color: #4dadf7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-bar {
+    margin-top: 0px;
+    display: flex;
+    margin-right: 10px;
+    margin: 50px;
+    position: relative;
+    top: -10px
+}
+
+.right-nav {
+    color: #183b56;
+    margin-left: 50px;
+    display: flex;
+    gap : 1.3rem;
+    margin-left: 600px;
+    position: relative;
+    right: 120px;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.nav {
+    font-size: 18px;
+    font-family: Averta PE, sans-serif;
+}
+
+.img {
+    position: relative;
+    left: 100px;
+}
+
+.img1 {
+
+    width: 168px;
+    height: 40px;
+    position: relative;
+    top: -7px
+}
+
+.top-p {
+    color: #ffffff;
+}
+
+.border {
+    border: 1.5px solid #4fb3d4;
+    padding: 11px 20px 11px 20px;
+    position: relative;
+    bottom: 14px;
+    border-radius: 6%;
+}
+
+.sign-up {
+    background-color: #2294ed;
+    color: #ffffff;
+}
+
+/** hero section 1 **/
+
+.hero-section1 {
+    display: flex;
+    margin: 0px 120px 0px 120px;
+
+}
+
+.hero1{
+}
+
+.hero1 p{
+    display: block;
+}
+.hero1 h1{
+    font-size: 48px;
+    font-family: Averta PE, sans-serif;
+    display: block;
+    color: #183b56;
+    padding: auto;
+}
+
+.img2{
+    width: 600px;
+    height: 460px;
+    display: block;
+    padding: 0px 80px 0px 150px;
+    position: relative;
+    right: 10px;
+}
+
+.hero1p {
+    display: flex;
+    font-size: 25px;
+    color: #577592;
+    margin-top: 50px;
+}
+
+.p {
+    display: flex;
+    gap: 1.3rem
+}
+
+.btn1 {
+    position: relative;
+    right: 68.40rem;
+    top: 390px;
+    width: 150px;
+    height: 51px;
+    border-radius: 5%;
+    background-color: #2294ed;
+    font-size: 20px;
+    color: #ffffff;
+    border: none;
+}
+
+/** Hero Section 2 **/
+
+.hero2 p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #183b56;
+    margin: 50px 0px 50px;
+}
+
+.logo1 {
+    width: 95px;
+    height: 46px;
+}
+
+.logo2 {
+    width: 105px;
+    height: 46px;
+}
+
+.logo3 {
+    width: 170px;
+    height: 46px;
+}
+
+.logo4 {
+    width: 146px;
+    height: 46px;
+}
+
+.logo5 {
+    width: 45px;
+    height: 46px;
+}
+
+.logo6 {
+    width: 155px;
+    height: 31px;
+}
+
+.logo7 {
+    width: 105px;
+    height: 46px;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: -15px;
+}
+
+/** Hero Section 3 **/
+
+.immg{
+    position: relative;
+    left: 420px;
+    width: 700px;
+    margin-top: 65px;
+    z-index: -15;
+}
+
+.hero3 h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 63rem;
+    right: 28rem;
+    font-size: 32px;
+    color: #183b56;
+}
+
+.btn a{
+    text-decoration: none;
+    position: absolute;
+    top: 67rem;
+    right: 42rem;
+    border: 1px solid #183b56;
+    width: 185px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    border-radius: 6%;
+    color: #183b56;
+}
+
+.btn a:hover{
+    color: #2294ed;
+    border-color: #2294ed;
+}
+
+
+.logos6 {
+    display: flex;
+}
+
+
+.logos6 h4{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #183b56;
+}
+
+.logos6 p {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #577592;
+
+}
+
+.images6 {
+    width: 271px;
+    height: 205px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -25rem;
+    left: 20rem;
+}
+ .proto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -25rem;
+    left: 23rem
+
+ }
+
+ .click {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -25rem;
+    left: 26rem;
+
+ }
+
+ .survey {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -10rem;
+    right: 25.85rem
+ }
+
+ .preference {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -10rem;
+    right: 22.63rem;
+ }
+
+ .fives {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -10rem;
+    right: 19.59rem;
+ }
+
+ .butt {
+    width: 155px;
+    height: 44px;
+    font-size: 16px;
+    color: #183b56;
+    border-radius: 5%;
+    position: relative;
+    top: 5px;
+    left: 5px;
+    border: 1px solid #183b56;
+ }
+
+ .butt a{
+    text-decoration: none;
+ }
+
+ .butt a:hover{
+    color: #2294ed;
+    border-color: #2294ed;
+}
+
+/** Hero Section 4 **/
+
+.pic1 {
+    width: 600px;
+    height: 568px
+    margin-left: 180px;
+}
+
+.picdiv {
+    display: flex;
+    margin-right: 180px;
+    margin-left: 180px;
+}
+
+.textdivp {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 100px;
+}
+
+.textdivh3 {
+    color: #183b56;
+    font-size: 32px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 100px;
+}
+
+.textdivp1 {
+    color: #577592;
+    font-size: 23px;
+    font-family: sans-serif;
+    padding: 0px 0px 30px 100px;
+    line-height: 30px;
+}
+
+.textdiv img {
+    
+    padding: 0px 0px 30px 100px;
+    z-index: -8;
+    position: relative;
+    right: 50px;
+    top: -20px;
+}
+
+.textdiv h6 {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 0px 30px 100px;
+}
+
+.textdivp2 {
+    color: #183b56;
+    font-size: 20px;
+    padding: 0px 0px 0px 100px;
+    position: relative;
+    top: -80px;
+}
+
+.textdivimg2 {
+    position: relative;
+    left: -5px;
+    width: 48px;
+    height: 48px;
+}
+
+.textdiva {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 0px;
+    position: relative;
+    top: -74px;
+}
+
+.textdivp3 {
+    color: #577592;
+    font-size: 14px;
+    font-family: sans-serif;
+    position: relative;
+    top: -72px;
+    left: 150px;
+}
+
+/** HeroSection 5 **/
+
+.hero5 {
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    margin-right: 190px;
+}
+
+.textdiv1a {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 15px 0px 500px 0px;
+
+}
+
+.textdiv1h5 {
+    color: #183b56;
+    font-size: 32px;
+    font-family: sans-serif;
+    padding: 10px 0px 50px 0px;
+}
+
+.textdiv1p {
+    color: #577592;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 0px 0px 30px 0px;
+}
+
+.textdiv1p1 {
+    color: #183b56;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 0px 0px 29px ;
+}
+
+.textdiv1img1 {
+    width: 74px;
+    height: 30px;
+    padding: 0px 0px 20px 0px;
+}
+
+.textdiv1 {
+    margin-top: 25px;
+    line-height: px;
+}
+
+.picdiv1img1 {
+    width: 600px;
+    height: 634px;
+    padding: 0 0 0 20px;
+}
+.textdiv1img3 {
+    width: 48px;
+    height: 48px;
+    padding: 5px 0px 0px 0px    ;
+}
+
+.textdiv1img2 {
+    position: relative;
+    left: -120px;
+    top: 40px;
+    z-index: -55;
+}
+
+.textdiv1a1 {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    top: -25px;
+    padding: 10px;
+}
+
+.textdiv1p2 {
+    color: #577592;
+    font-size: 14px;
+    font-family: sans-serif;
+    position: relative;
+    top: -23px;
+    left: 61px
+}
+
+/** Hero Section 6 **/
+
+
+.hero-section6 {
+    margin-top: 35px;
+}
+
+.hero6 {
+    margin-left: 180px;
+    display: flex;
+    margin-right: 180px;
+}
+
+.hero6img2 {
+    width: 80px;
+    z-index: -5;
+    position: relative;
+    right: 45px;
+}
+
+.texttt {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 35px;
+    margin-top: 25px;   
+}
+
+.picdiv2img1 {
+    width: 620px;
+    height: 600px;
+    position: relative;
+    right: 35px;
+}
+
+
+.hero6a {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 0px;
+}
+
+.hero6h6 {
+    color: #183b56;
+    font-size: 32px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 0px;
+}
+
+.hero6p {
+    color: #577592;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 0px 0px 30px 0px;
+}
+
+.hero6p1 {
+    color: #183b56;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 0px 0px 10px 0px;  
+    position: relative;
+    top: -50px;
+}
+.hero6img1 {
+    width: 116px;
+    height: 30px;
+}
+
+.hero6img3 {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    top: -35px;
+}
+
+.hero6a1 {
+    color: #183b56;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 0px 5px 0px;
+    position: relative;
+    top: -78px;
+    left: 55px;
+}
+
+.hero6p2 {
+    color: #577592;
+    font-size: 14px;
+    font-family: sans-serif;
+    position: relative;
+    top: -76px;
+    left: 52px
+
+}
+
+.byt {
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 214px;
+    height: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.byt:hover {
+    color: #4dadf7;
+    border: 2px solid #4dadf7;
+}
+
+.fab h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #183b56;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 30px;
+    padding: 0px 0px 20px 0px;
+}
+
+.byt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    position: relative;
+    left: 40%;
+}
+
+/** footer panel 1 **/
+
+.footer1 {
+    height: 300px;
+    margin: 60px 0px;
+}
+
+.footer1 h2 {
+    color: #183b56;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin: 20px 0px 48px;
+    padding: 20px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer1p {
+    color: #577592;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 30px 0px;
+}
+
+.footer1 a{
+    border: 0.5px solid #4dadf7;
+    width: 187px;
+    height: 55px;
+    background-color: #4dadf7;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    position: relative;
+    left: 620px;
+}
+
+.footer1 a:hover{
+    background-color: #577592;
+}
+
+.footer1p1 {
+    color: #577592;
+    font-size: 12px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 20px;
+    padding: 5px 0px 0px 0px;
+}
+
+/** Footer panel 2 **/
+
+.footer2 {
+    height: 310px;
+    background-color: ghostwhite;
+    padding: 80px 100px;
+    display: flex;
+}
+
+.product a {
+    color: #183b56;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 0px 0px 00px 0px;
+}
+
+.product p {
+    color: #577592;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 29px;
+    padding: 0px 0px 0px 00px;
+    position: relative;
+    top: 30px;
+}
+
+.Methodologies {
+    position: relative;
+    top: -15px
+}
+
+.Methodologies a {
+    color: #183b56;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 0px 20px 0px 100px;
+}
+
+.Methodologies p {
+    color: #577592;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 29px;
+    padding: 0px 20px 0px 100px;
+    position: relative;
+    top: 30px;
+}
+
+.Resources {
+    position: relative;
+    top: -5px;
+}
+
+.Resources a {
+    color: #183b56;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 0px 0px 0px 100px;
+}
+
+.Resources p {
+    color: #577592;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 29px;
+    padding: 0px 0px 0px 100px;
+    position: relative;
+    top: 30px;
+}
+.panel3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -100px;
+    left: 200px;
+}
+
+/** Footeer panel 3 **/
+
+.footer3 {
+    height: 64px;
+    background-color: #b9cdef;
+    display: flex;
+    color: #183b56;
+    font-size: 16px;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer3 p {
+    
+    margin: 0px 30px 0px 0px;
+}
